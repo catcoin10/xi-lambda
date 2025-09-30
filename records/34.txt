@@ -1,0 +1,5 @@
+Out of 45711211 valid programs (length 34 bits), 31204106 halted.
+=== Final record ===
+Size: 24
+Term: ((λ.(0 0)) (λ.(0 (-1 (λ.1)))))
+Binary: 1001100010001001100010100000100110
